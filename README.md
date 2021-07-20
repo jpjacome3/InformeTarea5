@@ -24,6 +24,9 @@
 
  ## 2. MARCO TEÓRICO 
  
+ ![image](https://user-images.githubusercontent.com/85137954/126404367-22a522bf-b949-4569-a2b4-3bfa4d6fe1d5.png)
+
+ 
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 9**
