@@ -20,7 +20,9 @@
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
+- Analizar cual es el funcionamiento de los capacitores en los circuitos ya esten estos conectados en serie o en paralelo.
 
+-Comprender cuales es el metodo mas eficaz para resolver los ejercicios sobre capacitores.
 
  ## 2. MARCO TEÓRICO 
  
