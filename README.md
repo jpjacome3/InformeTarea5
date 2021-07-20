@@ -66,7 +66,9 @@
 
 ## 5. CONCLUSIONES
 
+- Podemos concluir que los capacitores funcionan de manera contraria a las resistencias puesto que el capacitor en serie es el inverso de las sumas inversas de cada capacitancia y los capacitores en paralelo se suman.
 
+- Se pudo observar que la energia generada por un capacitor equivalente va a ser igual a la suma de la energia en cada capacitor.
 
 ## 6. BIBLIOGRAFIA
 
