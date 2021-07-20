@@ -26,6 +26,7 @@
  
  ![image](https://user-images.githubusercontent.com/85137954/126404367-22a522bf-b949-4569-a2b4-3bfa4d6fe1d5.png)
 
+![image](https://user-images.githubusercontent.com/85137954/126405490-b4067e18-9404-4132-b67e-d35d3f182b63.png)
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
