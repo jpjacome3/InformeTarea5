@@ -37,6 +37,12 @@
 
  **CAPITULO 10**
  
+ ![image](https://user-images.githubusercontent.com/85137954/126405746-3caafd6e-af94-4e76-b2d8-d21ecdf08533.png)
+
+![image](https://user-images.githubusercontent.com/85137954/126405867-40001a7e-126d-46c6-abc4-b8717a50dbbb.png)
+
+![image](https://user-images.githubusercontent.com/85137954/126405917-56682025-a1ce-49c8-ac14-944fa49c63b9.png)
+
  
 ## 4. VIDEO
 
