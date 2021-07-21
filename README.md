@@ -163,6 +163,8 @@
 
 - Se pudo observar que la energia generada por un capacitor equivalente va a ser igual a la suma de la energia en cada capacitor.
 
+- Se concluyo que las capacitancias no ideales varian segun su fabricacion, temperatura, absorcion.
+
 ## 6. BIBLIOGRAFIA
 
 - Harrison, C. A. Transform Methods in Circuits Analysis. Philadelphia, PA: Saunders, 1990
