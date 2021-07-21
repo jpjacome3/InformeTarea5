@@ -46,8 +46,6 @@
  
  ![WhatsApp Image 2021-07-20 at 21 19 27 (1)](https://user-images.githubusercontent.com/85137954/126423664-dcc665d0-5b31-48d5-b909-54678a1ffa9f.jpeg)
 
- ![WhatsApp Image 2021-07-20 at 21 20 24](https://user-images.githubusercontent.com/85137954/126423173-7effc1c0-4637-4f3a-b60c-fe8a7cf8334c.jpeg)
-
  ![WhatsApp Image 2021-07-20 at 21 19 27](https://user-images.githubusercontent.com/85137954/126423158-5c8811d2-f83b-4920-b0d0-7b5ec854a164.jpeg)
  
 ![WhatsApp Image 2021-07-20 at 21 22 20](https://user-images.githubusercontent.com/85137954/126423200-733ee6d2-24f4-414e-bcb0-a665e566fcd9.jpeg)
