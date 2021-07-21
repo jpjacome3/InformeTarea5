@@ -27,6 +27,10 @@
 
  ## 2. MARCO TEÓRICO 
  
+![super](https://user-images.githubusercontent.com/84586968/126447326-513a437e-400f-4efb-a147-d8e203300d7e.png)
+ 
+![theve](https://user-images.githubusercontent.com/84586968/126447331-a6c89a49-1b87-4f45-937e-f09da355185a.png)
+ 
  ![png (12)](https://user-images.githubusercontent.com/85137954/126405688-84f9af79-4a0b-4ce5-a55b-c84a25a8eb4b.png)
 
  ![png (14)](https://user-images.githubusercontent.com/85137954/126406776-7c4651ea-393d-475a-865c-f5152f36cad4.png)
