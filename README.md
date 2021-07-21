@@ -15,14 +15,15 @@
  
  ## 1. OBJETIVO GENERAL
  
-- 
-
+- Analizar los teoremas de redes y conocer acerca de la capacitancia.
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
 - Analizar cual es el funcionamiento de los capacitores en los circuitos ya esten estos conectados en serie o en paralelo.
 
--Comprender cuales es el metodo mas eficaz para resolver los ejercicios sobre capacitores.
+- Comprender cuales es el metodo mas eficaz para resolver los ejercicios sobre capacitores.
+
+- Entender los tipos de capacitores y sus efectos ideal y no ideales
 
  ## 2. MARCO TEÓRICO 
  
